@@ -1,9 +1,9 @@
 # Topological Risk-Landscape in Metric-Free Categorical Database
 
-HSIEH FUSHING 1, HONG-WEI KAO 2, and Elizabeth P. Chou 2
+HSIEH FUSHING<sup>1</sup>, HONG-WEI KAO<sup>2</sup>, and ELIZABETH P. CHOU<sup>2</sup>
 
-1 Department of Statistics, University of California at Davis, CA, 95616. USA. 
+<sup>1</sup> Department of Statistics, University of California at Davis, CA, 95616. USA. 
 
-2 Department of Statistics, National Chengchi University, Taipei, Taiwan.
+<sup>2</sup> Department of Statistics, National Chengchi University, Taipei, Taiwan.
 
-Corresponding author: Hsieh Fushing (e-mail: fhsieh@ucdavis.edu). Elizabeth P. Chou(e-mail: eptchou@g.nccu.edu.tw)
+Corresponding author: Hsieh Fushing (e-mail: fhsieh@ucdavis.edu). Elizabeth P. Chou (e-mail: eptchou@g.nccu.edu.tw)
